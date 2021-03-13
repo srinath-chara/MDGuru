@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css?family=Poly');
+div.search_bar{
+    border:1px solid;
+    width:1200px;
+    border-radius: 60px;
+    padding-left: 10px;
+    position: relative;
+    bottom:250px;
+    left:60px;
+    
+}
+ul.search_buttons{
+    list-style-type: none;
+    display: flex;
+    
+}
+
+
+li.search_item{
+    padding-left: 75px;
+}
+
+li.first_button{
+    padding-left:20px ;
+}
+
+button.search_button1{
+    outline:none;
+    border:none;
+    background-color:E5E5E5, 100%;
+    font-family: Poly;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    text-align: center;
+    border-radius: 100px;
+    padding-left: 100px;
+    padding-right: 100px;
+    box-shadow:0px 3px rgb(202, 199, 199);
+
+}
+button.search_button1:hover{
+    background-color: rgb(233, 233, 233);
+    cursor:pointer;
+}
+h1.search_button1{
+    font-size: 23px;
+}
+
+h1.search_sub1{
+    font-size: 15px;
+}
+
+button.search_button2{
+    outline:none;
+    border:none;
+    background-color:E5E5E5, 100%;
+    font-family: Poly;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    text-align: center;
+    border-radius: 100px;
+    padding-left: 130px;
+    padding-right: 130px;
+    box-shadow:0px 3px rgb(202, 199, 199);
+
+}
+button.search_button2:hover{
+    background-color: rgb(233, 233, 233);
+    cursor:pointer;
+}
+h1.search_button2{
+    font-size: 23px;
+}
+
+h1.search_sub2{
+    font-size: 15px;
+    width:200px;
+}
+
+img.search_icon{
+    position: relative;
+    right: 40px;
+    top:15px;
+    width: 55px;
+}
+
+button.Infoboard{
+    outline:none;
+    border:none;
+    background-color:E5E5E5, 100%;
+    font-family: Poly;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    text-align: center;
+    border-radius: 100px;
+    padding-left: 100px;
+    padding-right: 100px;
+    box-shadow:0px 3px rgb(202, 199, 199);
+
+}
+button.Infoboard:hover{
+    background-color: rgb(233, 233, 233);
+    cursor:pointer;
+}
+h1.col_one{
+    width: 10px;
+}
+ul.Infoboard{
+    list-style-type: none;
+    display:flex;
+    width:900px;
+}

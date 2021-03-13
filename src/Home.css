@@ -1,0 +1,261 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand');
+@import url('https://fonts.googleapis.com/css?family=Poly');
+
+div.nav_bar_pos{
+    position: relative;
+    bottom:15px;
+}
+
+h1.user_button{
+    font-family: Poly;
+font-style: normal;
+font-weight: normal;
+font-size: 22px;
+line-height: 30px;
+padding-top:9px;
+padding-bottom: 9px;
+border-radius: 18px;
+width:185px;
+}
+h1.user_button:hover{
+    background-color:  rgb(250, 250, 250);
+    cursor:pointer;
+}
+button.user_button{
+    background:none;
+    outline:none;
+    border:none;
+}
+
+ul.user_button{
+    list-style-type: none;
+    display: flex;
+    position: relative;
+    left:620px;
+    bottom:75px;
+}
+
+
+h1.main_title{
+    font-family: Quicksand;
+    font-style: normal;
+    font-weight:bold;
+    font-size: 38px;
+    line-height: 56px;
+    position:relative;
+    bottom:230px;
+    left:210px;
+    width:907px;
+}
+
+h1.second_title{
+    font-family: Quicksand;
+    font-style: normal;
+    font-weight:bold;
+    font-size: 35px;
+    line-height: 56px;
+    position:relative;
+    bottom:455px;
+    left:450px;
+    width:907px;
+}
+
+p.second_content{
+    font-family: Poly;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 30px;
+    position: relative;
+    bottom:450px;
+    left:585px;
+    width:586px;
+    text-align: left;
+}
+
+ul.pagetwo_board{
+    list-style-type: none;
+    display: flex;
+    position: relative;
+    right:130px;
+    bottom:350px;
+
+}
+li.pagetwo_board{
+    padding-right: 80px;
+}
+
+h1.third_title{
+    font-family: Quicksand;
+    font-style: normal;
+    font-weight:bold;
+    font-size: 35px;
+    line-height: 56px;
+    position:relative;
+    bottom:745px;
+    right:85px;
+    width:907px;
+}
+
+p.third_content{
+    font-family: Poly;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 30px;
+    position: relative;
+    bottom:725px;
+    left:85px;
+    width:586px;
+    text-align: left;
+}
+h1.third_footer{
+    font-family: Poly;
+    font-size: 20px;
+    position:relative;
+    bottom:600px;
+    width:250px;
+    left:1050px;
+}
+
+h1.fourth_title{
+    font-family: Quicksand;
+    font-style: normal;
+    font-weight:bold;
+    font-size: 35px;
+    line-height: 56px;
+    position:relative;
+    bottom:915px;
+    right:20px;
+    width:907px;
+}
+
+p.fourth_content{
+    font-family: Poly;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 30px;
+    position: relative;
+    bottom:880px;
+    left:100px;
+    width:586px;
+    text-align: left;
+}
+
+button.find_doctor{
+    outline:none;
+    border:solid 1px;
+    background-color: white;
+    font-family: Quicksand;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    text-align: center;
+    border-radius: 100px;
+    padding-left: 30px;
+    padding-right: 30px;
+    box-shadow:0px 4px rgb(219, 215, 215);
+    position:relative;
+    bottom:825px;
+    right:250px;
+
+}
+button.find_doctor:hover{
+    background-color: rgb(233, 233, 233);
+    cursor:pointer;
+}
+
+h1.fifth_title{
+    font-family: Quicksand;
+    font-style: normal;
+    font-weight:bold;
+    font-size: 35px;
+    line-height: 56px;
+    position:relative;
+    bottom:600px;
+    left:200px;
+    width:907px;
+}
+
+h1.integrate{
+    font-family: Quicksand;
+    font-style: normal;
+    font-weight:bold;
+    font-size: 35px;
+    line-height: 56px;
+    position:relative;
+    bottom:700px;
+    left:50px;
+    width:907px;
+}
+
+h1.sixth_title{
+    font-family: Quicksand;
+    font-style: normal;
+    font-weight:bold;
+    font-size: 35px;
+    line-height: 56px;
+    position:relative;
+    bottom:650px;
+    left:160px;
+    width:907px;
+}
+
+ul.blog{
+    list-style-type: none;
+    display: flex;
+    position: relative;
+    right:210px;
+    bottom:600px;
+
+}
+li.blog{
+    padding-right: 20px;
+    padding-top: 0px;
+}
+
+h1.seventh_title{
+    font-family: Quicksand;
+    font-style: normal;
+    font-weight:bold;
+    font-size: 45px;
+    line-height: 56px;
+    position:relative;
+    bottom:700px;
+    right:100px;
+    width:907px;
+}
+
+p.seventh_content{
+    font-family: Poly;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 30px;
+    position: relative;
+    bottom:700px;
+    left:80px;
+    width:500px;
+    text-align: left;
+}
+
+h1.seventh_footer{
+    font-family: Quicksand;
+    font-style: normal;
+    font-weight:bold;
+    font-size: 40px;
+    line-height: 56px;
+    position:relative;
+    bottom:800px;
+    left:550px;
+    width:907px;
+}
+
+div.footer_nav{
+    position:relative;
+    bottom:820px;
+
+    
+
+}
